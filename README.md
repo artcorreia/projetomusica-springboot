@@ -27,7 +27,7 @@
 
 O **Projeto Música** é uma API REST desenvolvida para gerenciar um catálogo musical contendo músicas, artistas/bandas e seus respectivos integrantes. A API oferece operações CRUD completas para músicas, buscas por diferentes critérios, paginação de resultados e navegação HATEOAS entre os recursos.
 
-O projeto foi desenvolvido como trabalho acadêmico na **FIAP** (Turma I) e segue evoluindo com novas funcionalidades e otimizações.
+O projeto foi desenvolvido como trabalho acadêmico na **FIAP** (Turma 2TDSPI) e segue evoluindo com novas funcionalidades e otimizações.
 
 ---
 
